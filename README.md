@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/Beneditus">
   <img  height="190cm" src="https://github-readme-stats.vercel.app/api?username=Beneditus&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img  height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beneditus&layout=compact&langs_count=7&theme=cobalt"/>
+  <img  height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beneditus&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div>
