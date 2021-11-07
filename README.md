@@ -1,10 +1,19 @@
-### Opa, tranquilo? Bem-vindxs aos meu perfil do github <3
+###  <h1 align="center">Opa, tranquilo? 👍 Bem-vindxs aos meu perfil do github <3</h1>
+  
+  <h2 align="center">Simples desenvolvedor de 17 anos</h2>
+  
+  <h3>💫 A estudar: </h3>
+  Frameworks de front-end além de linguagens como Javascript e suas bibliotecas; mySQL;
 
+  <h3>  📧 Contacte-me via discord:</h3>
+  <b>boysdontcry#3169</b>
+ 
+  <h3>💨 Pronomes:</h3>
+  Ele/Dele (if you speaking english with me I do accept he/they pronouns :) )
 
-- 💫 A estudar: Frameworks de front-end além de linguagens como Javascript e suas bibliotecas; mySQL;
-- 📧 Contacte-me via discord: <b>boysdontcry#3169</b>
-- 💨 Pronomes: Ele/Dele (if you speaking english with me I do accept he/they pronouns :) )
-
+  <br>
+  <br>
+  
 <div>
   <a href="https://github.com/Beneditus">
   <img  height="190cm" src="https://github-readme-stats.vercel.app/api?username=Beneditus&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
