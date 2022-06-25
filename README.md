@@ -1,6 +1,4 @@
-###  <h1 align="center">Opa, tranquilo? 👍 Bem-vindxs aos meu perfil do github <3</h1>
-  
-  <h2 align="center">Simples desenvolvedor de 17 anos</h2>
+###  <h1 align="center">Opa, tranquilo? 👍 Bem-vindos aos meu perfil do github <3</h1>
   
   <h3>💫 A estudar: </h3>
   Frameworks de front-end além de linguagens como Javascript e suas bibliotecas; mySQL;
