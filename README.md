@@ -4,7 +4,7 @@
   Frameworks de front-end além de linguagens como Javascript e suas bibliotecas; mySQL;
 
   <h3>  📧 Contacte-me via discord:</h3>
-  <b>Valentinxs#3169</b>
+  <b>deewashere#8810</b>
  
   <h3>💨 Pronomes:</h3>
   Ele/Dele (if you speaking english with me I do accept he/they pronouns :) )
