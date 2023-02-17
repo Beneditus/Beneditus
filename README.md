@@ -7,9 +7,4 @@
   Ele/Dele | He/Him
   <br>
   <br>
-  
-<div>
-  <a href="https://github.com/Beneditus">
-  <img  height="190cm" src="https://github-readme-stats.vercel.app/api?username=Beneditus&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
-  
+
