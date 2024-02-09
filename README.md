@@ -1,8 +1,4 @@
-###  <h1 align="center">A tentar ser cool e dinâmico  </h1>
+###  <h1 align="center">Olá o meu nome é diogo</h1>
   
-  <h3>💫 A estudar: </h3>
+## <h3>💫 A estudar: </h3>
   Desenvolvimento Web
-
-  <br>
-  <br>
-
